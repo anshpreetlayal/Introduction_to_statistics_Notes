@@ -1,32 +1,46 @@
 # Introduction to Statistics - Course Notes (FROM COURSERA)
 
 Welcome to the "Introduction to Statistics" course notes repository! This repository contains comprehensive notes and explanations covering various topics in statistics to aid your learning process.
-
 ## Course Overview
 
-This repository includes detailed notes and explanations for fundamental concepts and techniques in statistics, offering insights into essential statistical methods, visualization techniques, and measures used in data analysis.
+This repository serves as a comprehensive resource covering fundamental statistical concepts and techniques. It offers detailed notes and explanations essential for understanding statistical methods, visualization techniques, and measures used in data analysis.
 
 ## Contents
 
 ### Week 1: Introduction to Statistical Concepts
 - **Descriptive Statistics**
-  - Explanation of central tendency measures (mean, median, mode) and variability measures (range, variance, standard deviation).
-  - Visualization techniques such as pie charts, dot plots, bar graphs, histograms, box-and-whisker plots, and scatterplots.
-  
-### Week 2: Understanding Inference
+  - Explanation of measures of central tendency (mean, median, mode) and measures of variability (range, variance, standard deviation).
+  - Visualization techniques: pie charts, dot plots, bar graphs, histograms, box-and-whisker plots, scatterplots.
 
+### Week 2: Probability, Data Production, and Sampling
+- **Bayes' Theorem**
+  - Introduction and application of Bayes' theorem.
+- **Interpretation of Probability**
+  - Explanation of probability basics and its four fundamental rules.
+- **Observational Studies and Experimentation**
+  - Understanding observational studies and randomized controlled experiments.
+- **Producing Data and Sampling**
+  - Insights into statistical inference, types of sampling, bias, chance error, and sample biases.
 
-### Week 3: Measures of Error and Bias
+### Week 3: Normal Approximation, Binomial Distribution, and more
+- **Binomial Distribution**
+  - Understanding the binomial setting, binomial formula, and binomial coefficients.
+- **LLN and CLT**
+  - Explanation of the Law of Large Numbers and Central Limit Theorem.
+- **Normal Curve**
+  - Comprehensive understanding of the normal curve and its applications.
+- **Sampling Distributions**
+  - Insights into expected value, standard error, the square root law, and sampling distributions.
 
+### Week 4: Predictions, Correlations, and Residuals
+- **Prediction and Correlation**
+  - Exploring prediction methods and correlation measures.
+- **Residuals**
+  - Understanding residuals, Heteroscedasticity, Outliers and Influential Points and their role in statistical analysis.
 
-### Week 4: Probability and Distributions
- 
+### Week 5: (To Be Updated)
 
-### Week 5: 
-  
-
-### Week 6: 
-
+### Week 6: (To Be Updated)
 
 ## How to Use
 
