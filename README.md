@@ -8,19 +8,25 @@ This repository includes detailed notes and explanations for fundamental concept
 
 ## Contents
 
-### 1. Descriptive Statistics
-- Explanation of central tendency measures (mean, median, mode) and variability measures (range, variance, standard deviation).
-- Visualization techniques such as pie charts, dot plots, bar graphs, histograms, box-and-whisker plots, and scatterplots.
+### Week 1: Introduction to Statistical Concepts
+- **Descriptive Statistics**
+  - Explanation of central tendency measures (mean, median, mode) and variability measures (range, variance, standard deviation).
+  - Visualization techniques such as pie charts, dot plots, bar graphs, histograms, box-and-whisker plots, and scatterplots.
   
-### 2. Inferential Statistics
-- Understanding statistical inference, hypothesis testing, estimation, and their applications in drawing conclusions from sample data.
-- Explanation of simple random sampling, stratified random sampling, and their importance in obtaining representative samples.
+### Week 2: Understanding Inference
 
-### 3. Measures of Error and Bias
-- Discussion on bias, chance error (random error), and their impact on data analysis.
-- Identification and explanation of sample biases including selection bias, non-response bias, and voluntary bias.
 
---- more to add
+### Week 3: Measures of Error and Bias
+
+
+### Week 4: Probability and Distributions
+ 
+
+### Week 5: 
+  
+
+### Week 6: 
+
 
 ## How to Use
 
