@@ -52,10 +52,12 @@ This repository serves as a comprehensive resource covering fundamental statisti
 - Explaination for  Chi-Square Goodness of Fit Test , Chi-Square Test of Homogeneity, Chi-Square Test of Independence.
 
 ### Week 7:
-- ****
+- ** Anova**
+- In Week 7, we delve into ANOVA, a statistical technique for comparing means across multiple groups.
 
 ### Week 8:
-- ****
+- **Issues in the era of Big Data**
+-Week 8 focuses on the critical issues arising in the era of big data, exploring challenges and considerations in data analysis and interpretation.
 
 ## How to Use
 
