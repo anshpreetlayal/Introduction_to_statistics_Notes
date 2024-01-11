@@ -44,7 +44,18 @@ This repository serves as a comprehensive resource covering fundamental statisti
 - **Tests of Significance**
 - Discussion on testing hypotheses, understanding test statistics, interpretation of p-values, exploration of t-tests and z-tests, introduction to the two-sample z-test, and the application of the matched paired t-test.
 
-### Week 6:
+### Week 6: Resampling and Analysis of Categorical Data
+- **Resampling**
+- We explore resampling techniques, including advanced statistical inference methods, simulation methods like Monte Carlo Simulation, detailed explanations of the Bootstrap Method, practical applications of computer simulations, and exploring estimation, the Plug-in Principle, Parametric Bootstrap, Confidence Intervals, and bootstrapping in regression analysis.
+
+- **Analysis of Categorical Data**
+- Explaination for  Chi-Square Goodness of Fit Test , Chi-Square Test of Homogeneity, Chi-Square Test of Independence.
+
+### Week 7:
+- ****
+
+### Week 8:
+- ****
 
 ## How to Use
 
