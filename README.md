@@ -38,9 +38,13 @@ This repository serves as a comprehensive resource covering fundamental statisti
 - **Residuals**
   - Understanding residuals, Heteroscedasticity, Outliers and Influential Points and their role in statistical analysis.
 
-### Week 5: (To Be Updated)
+### Week 5:  Confidence Intervals and Tests of Significance
+- **Confidence Interval**
+- Explanation of confidence intervals, application of confidence intervals with the central limit theorem, introduction to the bootstrap principle, and estimating standard error using the bootstrap method.
+- **Tests of Significance**
+- Discussion on testing hypotheses, understanding test statistics, interpretation of p-values, exploration of t-tests and z-tests, introduction to the two-sample z-test, and the application of the matched paired t-test.
 
-### Week 6: (To Be Updated)
+### Week 6:
 
 ## How to Use
 
